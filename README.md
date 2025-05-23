@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @MitchellChen03
-just for fun lol
+My name is Mitchell Chen and I am a second year studying computer science at SJSU
